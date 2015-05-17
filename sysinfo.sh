@@ -138,7 +138,7 @@ function usage
 }
 
 
-##### still figuring this all out
+
 
 interactive=
 filename=system_info.php
